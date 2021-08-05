@@ -22,7 +22,7 @@ const Footer = () => {
            <p>Hardique Dasore</p>  
            <p>Presents</p>    
            <p>Airbnb clone</p>    
-           <p>If you ike the project</p>    
+           <p>If you like the project</p>    
            <p>Hire me</p>    
            </div> 
            <div className="space-y-4 text-xs text-gray-800">
